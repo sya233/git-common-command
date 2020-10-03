@@ -7,5 +7,7 @@
 # 下载仓库中的某个分支
 git clone -b 分支名称 https://XXXX.git  
 git clone -b 分支名称 -- https://XXX.git C:\Users\...
+# 删除远程仓库中的某个分支
+https://docs.github.com/en/free-pro-team@latest/github/using-git/pushing-commits-to-a-remote-repository#deleting-a-remote-branch-or-tag
 # 参考
 郭霖.第一行代码Android.第二版
